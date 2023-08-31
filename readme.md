@@ -1,1 +1,1 @@
-This repo is created to test the basic git funktions
+This repo is created to test the basic git functions
